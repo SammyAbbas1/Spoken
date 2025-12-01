@@ -48,7 +48,7 @@ With **Spoken**, language barriers and comprehension challenges are addressed, p
 ---
 
 ## Contributors  
-- **Lukas Buehlmann, Sammy Abbas, Gorazd Bojcev, Nana**  
+- **Sammy Abbas, Lukas Buehlmann**  
   - McMaster University
 
 
